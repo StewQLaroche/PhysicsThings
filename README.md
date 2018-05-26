@@ -1,2 +1,2 @@
-# QuantumPhysicsThings
-Code for quantum physics problems, projects, and interests.
+# PhysicsThings
+Code for physics problems, projects, and interests. Includes classical, nuclear, and quantum topics.
